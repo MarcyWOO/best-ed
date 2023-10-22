@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sections>
+<header>Swell Stuff!</header>
+<section id="screenSavers" label="Screen Savers" icon="images/icon_ss_0.png" type="os" instructions="Click on a Screensaver to download.">
+		<item id="0" label="wall 1" icon="images/icon_ss_0.png" file="content/activity/ss/BestEd_ScreenSaver1" bonus="0" />
+		<item id="1" label="wall 1" icon="images/icon_ss_1.png" file="content/activity/ss/BestEd_ScreenSaver2" bonus="4" instructions="Bonus 4: 100 nuts" b0="popUp_pc" b1="popUp_mac" />
+	</section>
+	<section id="connectDots" label="Connect the Dots" icon="images/icon_cd_0.png" type="print" instructions="Click on one of the drawings to save or print.">
+		<item id="1" label="wall 1" icon="images/icon_cd_1.png" file="content/activity/cd/Ed.jpg" bonus="0" />
+		<item id="2" label="wall 1" icon="images/icon_cd_2.png" file="content/activity/cd/MMM.jpg" bonus="0" />
+		<item id="3" label="wall 1" icon="images/icon_cd_3.png" file="content/activity/cd/Eugene.jpg" bonus="0" />
+		<item id="4" label="wall 1" icon="images/icon_cd_4.png" file="content/activity/cd/Fluffe.jpg" bonus="0" />
+		<item id="5" label="wall 1" icon="images/icon_cd_5.png" file="content/activity/cd/Thursty.jpg" bonus="0" />
+		<item id="6" label="wall 1" icon="images/icon_cd_6.png" file="content/activity/cd/Buster.jpg" bonus="0" />
+		<item id="7" label="wall 1" icon="images/icon_cd_7.png" file="content/activity/cd/Betsy.jpg" bonus="0" />
+		<item id="0" label="Buddy" icon="images/icon_cd_0.png" file="content/activity/cd/Buddy.jpg" bonus="1" instructions="Bonus 1: 25 nuts"  b0="popUp_print" b1="popUp_save" />
+	</section>
+	<section id="colouringPages" label="Colouring Pages" icon="images/icon_cp_0.png" type="print" instructions="Click on one of the drawings to save or print.">
+		<item id="1" label="wall 1" icon="images/icon_cp_0.png" file="content/activity/cp/edhug.jpg" bonus="0" />
+		<item id="2" label="wall 1" icon="images/icon_cp_1.png" file="content/activity/cp/happysandals.jpg" bonus="0" />
+		<item id="3" label="wall 1" icon="images/icon_cp_2.png" file="content/activity/cp/edvsthread.jpg" bonus="0" />
+		<item id="4" label="wall 1" icon="images/icon_cp_3.png" file="content/activity/cp/edsbed.jpg" bonus="0" />
+		<item id="5" label="wall 1" icon="images/icon_cp_4.png" file="content/activity/cp/driving.jpg" bonus="0" />
+		<item id="6" label="wall 1" icon="images/icon_cp_5.png" file="content/activity/cp/driving2.jpg" bonus="0" />
+		<item id="7" label="wall 1" icon="images/icon_cp_6.png" file="content/activity/cp/crossingdog.jpg" bonus="0" />
+		<item id="8" label="wall 1" icon="images/icon_cp_7.png" file="content/activity/cp/buddyinwell.jpg" bonus="0" />
+		<item id="9" label="wall 1" icon="images/icon_cp_8.png" file="content/activity/cp/airplane.jpg" bonus="0" />
+		<item id="10" label="wall 1" icon="images/icon_cp_9.png" file="content/activity/cp/ed.jpg" bonus="0" />
+		<item id="12" label="wall 1" icon="images/icon_cp_11.png" file="content/activity/cp/police.jpg" bonus="0" />
+		<item id="14" label="wall 1" icon="images/icon_cp_13.png" file="content/activity/cp/mmm.jpg" bonus="0" />
+		<item id="15" label="wall 1" icon="images/icon_cp_14.png" file="content/activity/cp/jet.jpg" bonus="0" />
+		<item id="16" label="wall 1" icon="images/icon_cp_15.png" file="content/activity/cp/intersection.jpg" bonus="0" />
+		<item id="17" label="wall 1" icon="images/icon_cp_16.png" file="content/activity/cp/hoppenscotch.jpg" bonus="0" />
+		<item id="11" label="wall 1" icon="images/icon_cp_10.png" file="content/activity/cp/trimhedge.jpg" bonus="0" />
+		<item id="13" label="wall 1" icon="images/icon_cp_12.png" file="content/activity/cp/mmmflag.jpg" bonus="0" />
+	</section>
+	<section id="wallpapers" label="Wallpapers" icon="images/icon_wp_0.png" type="wallpaper" instructions="Click on one of the wallpapers to set it as your background.">
+		<item id="0" label="wall 1" icon="images/icon_wp_0.png" file="content/activity/wp/BestEd_Belly" bonus="0" />
+		<item id="1" label="wall 1" icon="images/icon_wp_1.png" file="content/activity/wp/BestEd_EdBottom_Driving" bonus="0" />
+		<item id="2" label="wall 1" icon="images/icon_wp_2.png" file="content/activity/wp/BestEd_EdBuddy_MMM" bonus="0" />
+		<item id="3" label="wall 1" icon="images/icon_wp_3.png" file="content/activity/wp/BestEd_EdBuddy_RetroNuts" bonus="0" />
+		<item id="4" label="wall 1" icon="images/icon_wp_4.png" file="content/activity/wp/BestEd_EdSide_MMM" bonus="0" />
+		<item id="5" label="wall 1" icon="images/icon_wp_5.png" file="content/activity/wp/BestEd_Fishies" bonus="0" />
+		<item id="6" label="wall 1" icon="images/icon_wp_6.png" file="content/activity/wp/BestEd_Flowers" bonus="0" />
+		<item id="7" label="wall 1" icon="images/icon_wp_7.png" file="content/activity/wp/BestEd_Fruits" bonus="0" />
+		<item id="8" label="wall 1" icon="images/icon_wp_8.png" file="content/activity/wp/BestEd_Globe" bonus="0" />
+		<item id="9" label="wall 1" icon="images/icon_wp_9.png" file="content/activity/wp/BestEd_HappySandals_Boats" bonus="0" />
+		<item id="10" label="wall 1" icon="images/icon_wp_10.png" file="content/activity/wp/BestEd_Hoppenscotch" bonus="0" />
+		<item id="11" label="wall 1" icon="images/icon_wp_11.png" file="content/activity/wp/BestEd_Hug_Boats" bonus="0" />
+		<item id="12" label="wall 1" icon="images/icon_wp_12.png" file="content/activity/wp/BestEd_Hug_Bones" bonus="0" />
+		<item id="13" label="wall 1" icon="images/icon_wp_13.png" file="content/activity/wp/BestEd_Hug_Nutcrackers" bonus="0" />
+		<item id="14" label="wall 1" icon="images/icon_wp_14.png" file="content/activity/wp/BestEd_MightyMeasleMoles" bonus="0" />
+		<item id="16" label="wall 1" icon="images/icon_wp_16.png" file="content/activity/wp/BestEd_Sunset_Duckies" bonus="0" />
+		<item id="17" label="wall 1" icon="images/icon_wp_17.png" file="content/activity/wp/BestEd_Sunset_MMM" bonus="0" />
+		<item id="18" label="wall 1" icon="images/icon_wp_18.png" file="content/activity/wp/BestEd_Swellville" bonus="0" />
+		<item id="19" label="wall 1" icon="images/icon_wp_19.png" file="content/activity/wp/BestEd_SwellvilleFall" bonus="0" />
+		<item id="19" label="wall 1" icon="images/icon_wp_20.png" file="content/activity/wp/BestEd_SwellvilleNight" bonus="0" />
+		<item id="15" label="wall 1" icon="images/icon_wp_15.png" file="content/activity/wp/BestEd_MightyMeasleShip"  bonus="3" instructions="Bonus 3: 75 nuts" b0="popUp_resSmall" b1="popUp_resLarge" />
+	</section>
+	<section id="fortuneTeller" label="Fortune Teller" icon="images/icon_ft_0.png" type="print" instructions="Click on the Fortune Teller to save or print.">
+		<item id="0" label="Congratulations you have unlocked bonus 1!" icon="images/icon_ft_0.png" file="content/activity/ft/Fortune_Teller.jpg" bonus="2" instructions="Bonus 2: 50 nuts" b0="popUp_print" b1="popUp_save" />
+	</section>
+</sections>

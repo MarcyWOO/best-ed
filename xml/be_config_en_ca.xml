@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<site>
+	<header>Best Ed Canadian English Configuration File</header>
+	<sections>
+		<section id="sweetStreet" label="Sweet Street" file="be_sweetStreet" type="page" />
+		<section id="videos" label="Videos" file="be_livingRoom" type="page" />
+		<section id="downtown" label="Downtown" file="be_downtown" type="page" />
+		<section id="edAndBuddy" label="Ed and Buddy's house" file="be_edAndBuddy" type="page" />
+		<section id="tvStation" label="TV Station" file="be_tvStation" type="page" />
+		<section id="fluffe" label="Fluffe's" file="be_fluffe" type="page" />
+		<section id="park" label="Park" file="be_park" type="page" />
+		<section id="school" label="School" file="be_school" type="page" />
+		<section id="livingRoom" label="Living Room" file="be_livingRoom" type="page" />
+		<section id="credits" label="Credits" file="be_credits" type="page" />
+		<section id="g_improvement" label="Ed's Self-Improvement Jar" file="be_pearlsWisdom" type="game" />
+		<section id="g_crystal" label="Mrs. Fluffe's Crystal Ball" file="be_crystalBall" type="game" />
+		<section id="g_hedge" label="Hedge Your Bets" file="be_hedgeYourBets" type="game" gameID="162" />
+		<section id="g_nuts" label="Nut Sorting Game" file="be_nutSorting" type="game" gameID="164" />
+		<section id="g_crossing" label="Crossing Dog" file="be_crossingDog" type="game" gameID="165" />
+		<section id="g_driving" label="Driver's Ed" file="be_driving" type="game" gameID="163" />
+	</sections>
+	<buttons>
+		<button id="explore_btn" label="explore swellville" />
+		<button id="play_btn" label="play swell games" />
+		<button id="watch_btn" label="watch swell videos" />
+		<button id="credits_btn" label="Credits" />
+		<button id="stuff_btn" label="Swell Stuff" />
+		<button id="item_1" label="Bonus 1: 25 nuts" /> <!--- tv Section ---->
+		<button id="item_2" label="Bonus 2: 50 nuts" />
+		<button id="item_3" label="Bonus 3: 75 nuts" />
+		<button id="item_4" label="Bonus 4: 100 nuts" />
+		<button id="popUp_print" label="Print" />
+		<button id="popUp_save" label="Save" />
+		<button id="popUp_resSmall" label="800x600" />
+		<button id="popUp_resLarge" label="1280x1024" />
+		<button id="popUp_pc" label="PC" />
+		<button id="popUp_mac" label="Mac" />
+	</buttons>
+	<legal>
+		<jargon id="copy_txt" label="© MMIX 9 Story Entertainment Inc. & marblemedia interactive inc." />
+		<jargon id="prod_txt" label="Produced with the Financial Participation of the Bell Broadcast and New Media Fund" />
+	</legal>
+	<instructions>
+		<instruction id="nut_txt" label="Find the nuts and get special bonus content in the TV studio." />
+		<instruction id="print_txt" label="Choose to save or print." />
+		<instruction id="wallpaper_txt" label="1. Click the size of the wallpaper you want to open in a new window.
+2. Right-click (Control-Click for MAC) on the image and select “Set as Background” or “Set as Wallpaper”. " />
+		<instruction id="save_txt" label="Find nuts to get bonus content. The bonus content is unlocked in the TV Station." />
+		<instruction id="os_txt" label="1. Select the destination folder on your computer where you would like to save the file and click save.
+2. PC - Find the file in the location where you saved it on your computer, right click and select “Install” to install your screensaver.
+MAC - Find the file in the location where you saved it on your computer and double click on it to unzip the file. Double click on the file that appears after unzipping and click “Install”." />
+		<instruction id="bonus_1_head" label="Congratulations!" />
+		<instruction id="bonus_2_head" label="Well Done!" />
+		<instruction id="bonus_3_head" label="Way to go!" />
+		<instruction id="bonus_4_head" label="Great Job!" />
+		<instruction id="bonus_1_txt" label="Now you can print or save a Connect The Dots Page!" />
+		<instruction id="bonus_2_txt" label="Now you can print or save a Fortune Teller!" />
+		<instruction id="bonus_3_txt" label="Now you can download a Wallpaper!" />
+		<instruction id="bonus_4_txt" label="Now you can download a Screen Saver!" />
+	</instructions>
+</site>
+<!-- <section id="driving" label="Driver's Ed" file="Driving" /> the second driving link if to get to it from inside the downtown environment. -->
+<!-- <jargon id="copy_txt" label="© MMIX 9Story Entertainment Inc. & marblemedia interactive inc." /> -->
+<!-- <jargon id="prod_txt" label="Produced with the Financial Participation of the Bell Broadcast and New Media Fund" /> -->

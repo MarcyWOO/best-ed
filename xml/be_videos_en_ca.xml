@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<site>
+  <episode id="0">
+    <clip id="0" label="Warring Cultures" file="content/videos/MMM_Ep1_en_ca.flv" />
+		<clip id="1" label="Attack of the Rock" file="content/videos/MMM_Ep2_en_ca.flv" />
+		<clip id="2" label="Baby Boo Boo" file="content/videos/MMM_Ep3_en_ca.flv" />
+		<clip id="3" label="The Medusa Mom" file="content/videos/MMM_Ep4_en_ca.flv" />
+  </episode>
+</site>
+<!--- clip id must be sequenial and start at 0 --->
